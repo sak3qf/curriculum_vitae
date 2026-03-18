@@ -15,8 +15,19 @@ See PDF in Repository
  
 <img width="2485" height="1460" alt="Screenshot 2026-02-22 070606" src="https://github.com/user-attachments/assets/7b767580-18d7-4ff1-b134-6e0da1792a30" />
 
-- 2024 - *Multimodal Emotion Analysis for Nuanced INterpretation & Grading (MEANING) of Media.*
+- 2024 - *Multimodal Emotion Analysis for Nuanced INterpretation & Grading (MEANING) of Media.* 
 <img width="1354" height="836" alt="image" src="https://github.com/user-attachments/assets/bbda32f1-cc7e-4681-bdd4-5ee8e48804ab" />
+
+- 2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)*
+IIIT-H has partnered with TIV to develop an AI enabled multi-Drone System: AI-FARMS (or  Krishk-AI)
+AI-FARMS leverages computer-vision, crop health identification and advanced aerodynamic control for precise application of fertilizers and pesticides (Figure 2)
+AI-FARMS can increase agriculture productivity and sustainability, empowering farmers with technology that can improve through continuous learning and adaptation.
+<img width="2473" height="150" alt="image" src="https://github.com/user-attachments/assets/1e2f8586-4399-4ccf-8fb3-54309f2fafb4" />
+
+<img width="728" height="671" alt="image" src="https://github.com/user-attachments/assets/f31f5911-e0ae-43a8-986c-129d936549c8" />
+
+
+
 
 ## Example Publications
 - Farah, R. **Kebaish, S.**,Ferrara, R., Nixon, S., Tashman, A., & Holstege, C. (2025). *Leveraging a comprehensive student database to characterize alcohol-related visits to the emergency department: a six-year study*.45th International Congress of the European Association of Poisons Centres and Clinical Toxicologists (EAPCCT), 27–30 May 2025. Retrieved from https://www.tandfonline.com/doi/full/10.1080/15563650.2025.2481800
