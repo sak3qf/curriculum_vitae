@@ -9,13 +9,14 @@ See PDF in Repository
 - 2015 - B.A. - Cognitive Science w/ Neuroscience Concentration - University of Virginia
 
 
-## Example Projects/Repositories (Forthcoming)
-- 2025 - Current - George Washington University - AI & ML Doctoral Thesis/Praxis: *Evaluating Bio-Inspired Modular Architectures and Homeostatic Regulation in Robust Embodied AI using a MuJoCo PPO RL Simulation*
+## Example Projects/Repositories
+- **2025 - Current - George Washington University - AI & ML Doctoral Thesis/Praxis: *Evaluating Bio-Inspired Modular Architectures and Homeostatic Regulation in Robust Embodied AI using a MuJoCo PPO RL Simulation***
   - Doctoral Advisor - Dr. Joseph Castro
  
 <img width="2485" height="1460" alt="Screenshot 2026-02-22 070606" src="https://github.com/user-attachments/assets/7b767580-18d7-4ff1-b134-6e0da1792a30" />
 
-- 2024 - *Multimodal Emotion Analysis for Nuanced INterpretation & Grading (MEANING) of Media.* 
+- **2024 - *Multimodal Emotion Analysis for Nuanced INterpretation & Grading (MEANING) of Media.***
+  -  
 <img width="1354" height="836" alt="image" src="https://github.com/user-attachments/assets/bbda32f1-cc7e-4681-bdd4-5ee8e48804ab" />
 
 - 2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)* -Top 20 Finalist 2024 USISTEF (https://iusstf.org/u-s-india-science-technology-endowment-fund) 
