@@ -2,11 +2,11 @@
 See PDF in Repository
 
 ## Education
-- 2025 - Current:  Doctoral Candidate - Artificial Intelligence & Machine Learning - George Washington University
-- 2024: MSDS - Data Science - University of Virginia
-- 2019: M.Sc. - Biotechnology w/ Bionformatics Concentration - Johns Hopkins University
-- 2015: B.Sc. - Biochemistry - University of Virginia
-- 2015: B.A. - Cognitive Science w/ Neuroscience Concentration - University of Virginia
+- (2025 - Current):  Doctoral Candidate - Artificial Intelligence & Machine Learning - George Washington University
+- (2021- 2024): MSDS - Data Science - University of Virginia
+- (2017- 2019): M.Sc. - Biotechnology w/ Bionformatics Concentration - Johns Hopkins University
+- (2010 - 2015): B.Sc. - Biochemistry - University of Virginia
+- (2010 - 2015): B.A. - Cognitive Science w/ Neuroscience Concentration - University of Virginia
 
 
 ## Example Projects/Repositories
