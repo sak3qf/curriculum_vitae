@@ -1,4 +1,8 @@
-# CV
+# Samy Kebaish - Curriculum Vitae (CV)
+
+## About
+
+AI/ML Engineer and Researcher. Current Doctoral Candidate in AI & ML at George Washington University. 
 
 ## Employment
 
