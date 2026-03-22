@@ -4,6 +4,10 @@
 
 AI/ML Engineer and Researcher. Current Doctoral Candidate in AI & ML at George Washington University. 
 
+## Research Interests & Areas of Expertise 
+
+Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MARL); Neurosymbolic AI; Multimodal deep learning models; AI Policy & Ethics; AI Governance; Data Analytics; Healthcare Data Informatics; Bioinformatics; AI & Intellectual Property; Biochemistry; Neuroscience
+
 ## Employment
 
 - (2020 - Current): Senior Research Associate - AI & ML - Tambourine Innovation Ventures
