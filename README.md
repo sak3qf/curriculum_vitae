@@ -11,7 +11,11 @@ AI/ML Engineer and Researcher. Current Doctoral Candidate in AI & ML at George W
 - (2024 - Current): Student Research Intern - Data Science & AI - University of Virginia Student Health & Wellness Department - SHORE
 - (2021): Student-Athlete Chemistry Tutor - University of Virginia 
 - (2020 - 2025): Head of Data Analytics - General Foods USA
-  -  https://www.generalfoodsus.com/ 
+  -  https://www.generalfoodsus.com/
+- (2017 - 2020): Software Engineer & Practice Manager - National Orthopedic Clinic
+- (2017 [Contract] ) - Full-Stack JavaScript Software Engineering Instructor - Hack Reactor (now Galvanize)
+  - https://www.hackreactor.com/. 
+  - Competitive software engineering immersive - 12 Hours a Day, 6 Days a week, for 12 Weeks of Full-Stack Javascript programming 
 ## Other
 - (2020 - Current): Editor - Schumpeter Circle
     - https://www.schumpetercircle.com
