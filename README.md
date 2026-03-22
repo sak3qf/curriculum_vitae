@@ -51,6 +51,10 @@ Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MAR
 - **2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)* -Top 20 Finalist 2024 USISTEF** (https://iusstf.org/u-s-india-science-technology-endowment-fund) 
   - As part of a collaboration between Tambourine Innovation Ventures (TIV), and IIIT-H, we helped to develop an AI enabled multi-Drone System: AI-FARMS (or  Krishk-AI). Principal Investigators: Dr. Atul Wad (TIV); Dr. Spandan Roy (IIIT-H);
   - AI-FARMS leverages computer-vision, crop health identification and advanced aerodynamic control for precise application of fertilizers and pesticides,  and increases agriculture productivity and sustainability, empowering farmers with technology that can improve through continuous learning and adaptation
+  - <img width="2106" height="1060" alt="image" src="https://github.com/user-attachments/assets/2b3cfd60-7804-4442-bf47-f02c3b5fef65" />
+  - <img width="2106" height="1060" alt="image" src="https://github.com/user-attachments/assets/b89748ab-1e21-4a83-bc96-34dd133f433f" />
+
+
 
 
 
