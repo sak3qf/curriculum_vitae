@@ -42,9 +42,12 @@ Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MAR
 
 - **2024 - *Multimodal Emotion Analysis for Nuanced INterpretation & Grading (MEANING) of Media.***
   - <img width="1354" height="836" alt="image" src="https://github.com/user-attachments/assets/bbda32f1-cc7e-4681-bdd4-5ee8e48804ab" />
-  
+
+- **2024 - *Students Helping Students: Longitudinal Analysis of Risky Drinking Behavior at the University of Virginia from 2017-2023***
+  - <img width="2222" height="1206" alt="image" src="https://github.com/user-attachments/assets/1274f93e-34f6-4199-833a-c46621c365d1" />
+
 - **2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)* -Top 20 Finalist 2024 USISTEF** (https://iusstf.org/u-s-india-science-technology-endowment-fund) 
-  - As part of a collaboration between Tambourine Innovation Ventures (TIV), and IIIT-H, we helped to develop an AI enabled multi-Drone System: AI-FARMS (or  Krishk-AI).
+  - As part of a collaboration between Tambourine Innovation Ventures (TIV), and IIIT-H, we helped to develop an AI enabled multi-Drone System: AI-FARMS (or  Krishk-AI). Principal Investigators: Dr. Atul Wad (TIV); Dr. Spandan Roy (IIIT-H);
   - AI-FARMS leverages computer-vision, crop health identification and advanced aerodynamic control for precise application of fertilizers and pesticides,  and increases agriculture productivity and sustainability, empowering farmers with technology that can improve through continuous learning and adaptation
 
 
