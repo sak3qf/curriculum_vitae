@@ -9,6 +9,7 @@ See PDF in Repository
 - (2010 - 2015): B.A. - Cognitive Science w/ Neuroscience Concentration - University of Virginia
 
 
+
 ## Example Projects/Repositories
 - **2025 - Current - George Washington University - AI & ML Doctoral Thesis/Praxis: *Evaluating Bio-Inspired Modular Architectures and Homeostatic Regulation in Robust Embodied AI using a MuJoCo PPO RL Simulation***
   - Doctoral Advisor - Dr. Joseph Castro
