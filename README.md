@@ -1,5 +1,4 @@
 # CV
-See PDF in Repository
 
 ## Education
 - (2025 - Current):  Doctoral Candidate - Artificial Intelligence & Machine Learning - George Washington University
@@ -17,10 +16,9 @@ See PDF in Repository
 <img width="2485" height="1460" alt="Screenshot 2026-02-22 070606" src="https://github.com/user-attachments/assets/7b767580-18d7-4ff1-b134-6e0da1792a30" />
 
 - **2024 - *Multimodal Emotion Analysis for Nuanced INterpretation & Grading (MEANING) of Media.***
-  -  
-<img width="1354" height="836" alt="image" src="https://github.com/user-attachments/assets/bbda32f1-cc7e-4681-bdd4-5ee8e48804ab" />
-
-- 2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)* -Top 20 Finalist 2024 USISTEF (https://iusstf.org/u-s-india-science-technology-endowment-fund) 
+  - <img width="1354" height="836" alt="image" src="https://github.com/user-attachments/assets/bbda32f1-cc7e-4681-bdd4-5ee8e48804ab" />
+  
+- **2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)* -Top 20 Finalist 2024 USISTEF** (https://iusstf.org/u-s-india-science-technology-endowment-fund) 
   - As part of a collaboration between Tambourine Innovation Ventures (TIV), and IIIT-H, we helped to develop an AI enabled multi-Drone System: AI-FARMS (or  Krishk-AI).
   - AI-FARMS leverages computer-vision, crop health identification and advanced aerodynamic control for precise application of fertilizers and pesticides,  and increases agriculture productivity and sustainability, empowering farmers with technology that can improve through continuous learning and adaptation
 
