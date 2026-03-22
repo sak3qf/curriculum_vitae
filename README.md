@@ -6,7 +6,7 @@ AI/ML Engineer and Researcher. Current Doctoral Candidate in AI & ML at George W
 
 ## Research Interests & Areas of Expertise 
 
-Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MARL); Neurosymbolic AI; Multimodal deep learning models; AI Policy & Ethics; AI Governance; Data Analytics; Healthcare Data Informatics; Bioinformatics; AI & Intellectual Property; Biochemistry; Neuroscience
+Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MARL); Neurosymbolic AI; Multimodal deep learning models; AI Policy & Ethics; AI Governance; Data Analytics; Healthcare Data Informatics; Bioinformatics; AI & Intellectual Property; Biochemistry; Neuroscience; Technology Commercialization; SBIR & STTR; Grant Writing
 
 ## Employment
 
