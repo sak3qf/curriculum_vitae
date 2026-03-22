@@ -1,5 +1,18 @@
 # CV
 
+## Employment
+
+- (2020 - Current): Senior Research Associate - AI & ML - Tambourine Innovation Ventures
+  - https://www.tivinc.com
+- (2024 - Current): Student Research Intern - Data Science & AI - University of Virginia Student Health & Wellness Department - SHORE
+- (2021): Student-Athlete Chemistry Tutor - University of Virginia 
+- (2020 - 2025): Head of Data Analytics - General Foods USA
+  -  https://www.generalfoodsus.com/ 
+## Other
+- (2020 - Current): Editor - Schumpeter Circle
+    - https://www.schumpetercircle.com
+    - A blog about innovation
+
 ## Education
 - (2025 - Current):  Doctoral Candidate - Artificial Intelligence & Machine Learning - George Washington University
 - (2021- 2024): MSDS - Data Science - University of Virginia
