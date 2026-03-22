@@ -12,6 +12,7 @@ Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MAR
 
 - (2020 - Current): Senior Research Associate - AI & ML - Tambourine Innovation Ventures
   - https://www.tivinc.com
+  - Multifaceted role spanning technical implementation (e.g. data science analyses; development of AI models), technology commercialization (e.g. TABA for Phase I and II SBIR/STTR Grantees, ranging from academia to industry), policy analysis (e.g. ethical, legal and social implications of decentralized science (DeSci) in genomics; impact of emerging technologies on developing countries); AI and Big Data Governance, grant writing, desk research, and more.
 - (2024 - Current): Student Research Intern - Data Science & AI - University of Virginia Student Health & Wellness Department - SHORE
 - (2021): Student-Athlete Chemistry Tutor - University of Virginia 
 - (2020 - 2025): Head of Data Analytics - General Foods USA
@@ -50,7 +51,6 @@ Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MAR
 - **2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)* -Top 20 Finalist 2024 USISTEF** (https://iusstf.org/u-s-india-science-technology-endowment-fund) 
   - As part of a collaboration between Tambourine Innovation Ventures (TIV), and IIIT-H, we helped to develop an AI enabled multi-Drone System: AI-FARMS (or  Krishk-AI). Principal Investigators: Dr. Atul Wad (TIV); Dr. Spandan Roy (IIIT-H);
   - AI-FARMS leverages computer-vision, crop health identification and advanced aerodynamic control for precise application of fertilizers and pesticides,  and increases agriculture productivity and sustainability, empowering farmers with technology that can improve through continuous learning and adaptation
-
 
 
 
