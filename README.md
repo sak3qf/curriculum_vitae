@@ -45,6 +45,7 @@ Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MAR
 
 - **2024 - *Students Helping Students: Longitudinal Analysis of Risky Drinking Behavior at the University of Virginia from 2017-2023***
   - <img width="2222" height="1206" alt="image" src="https://github.com/user-attachments/assets/1274f93e-34f6-4199-833a-c46621c365d1" />
+  - <img width="2199" height="1116" alt="image" src="https://github.com/user-attachments/assets/6c005759-d2e4-4113-b757-8b63975fd34a" />
 
 - **2024 - *AI-FARMS (AI-Facilitated Autonomous Resource Management System)* -Top 20 Finalist 2024 USISTEF** (https://iusstf.org/u-s-india-science-technology-endowment-fund) 
   - As part of a collaboration between Tambourine Innovation Ventures (TIV), and IIIT-H, we helped to develop an AI enabled multi-Drone System: AI-FARMS (or  Krishk-AI). Principal Investigators: Dr. Atul Wad (TIV); Dr. Spandan Roy (IIIT-H);
