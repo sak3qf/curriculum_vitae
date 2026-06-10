@@ -14,6 +14,7 @@ Agentic AI; Reinforcement Learning (RL); Multi-agent Reinforcement Learning (MAR
   - https://www.tivinc.com
   - Multifaceted role spanning technical implementation (e.g. data science analyses; development of AI models), technology commercialization (e.g. TABA for Phase I and II SBIR/STTR Grantees, ranging from academia to industry), policy analysis (e.g. ethical, legal and social implications of decentralized science (DeSci) in genomics; impact of emerging technologies on developing countries); AI and Big Data Governance, grant writing, desk research, and more.
 - (2024 - Current): Student Research Intern - Data Science & AI - University of Virginia Student Health & Wellness Department - SHORE
+- (2025 - Current): Lecturer - Computer Vision & NLP - New England College
 - (2021): Student-Athlete Chemistry Tutor - University of Virginia 
 - (2020 - 2025): Head of Data Analytics - General Foods USA
   -  https://www.generalfoodsus.com/
