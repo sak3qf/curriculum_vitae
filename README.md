@@ -2,7 +2,7 @@
 
 ## About
 
-AI/ML Engineer and Researcher. Current Doctoral Candidate in AI & ML at George Washington University. 
+AI/ML Engineer, University Lecturer, and Researcher. Current Doctoral Candidate in AI & ML at George Washington University. 
 
 ## Research Interests & Areas of Expertise 
 
